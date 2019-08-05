@@ -45,10 +45,10 @@
 /* ==================== function prototypes =========================== */
 /* ==================================================================== */
 
-void set_terminal_color_red(void);
-void set_terminal_color_green(void);
-void set_terminal_color_yellow(void);
-void set_terminal_color_blue(void);
-void set_terminal_color_magenta(void);
-void set_terminal_color_cyan(void);
-void set_terminal_color_reset(void);
+extern void set_terminal_color_red(void);
+extern void set_terminal_color_green(void);
+extern void set_terminal_color_yellow(void);
+extern void set_terminal_color_blue(void);
+extern void set_terminal_color_magenta(void);
+extern void set_terminal_color_cyan(void);
+extern void set_terminal_color_reset(void);
